@@ -1,0 +1,58 @@
+1.echo
+
+echo用于输出后端字符串，或者变量提取后的值；
+
+2.date
+
+date用于显示或者设置系统时间
+设置 date -s "20170901 8:30:00"
+查看用date 或者date "+%Y-%m-%d %H:%M:%S"
+
+3.ps aux
+
+查看进程状态
+
+4.top 
+
+查看任务管理器
+
+5.kill
+
+关闭指定进程kill [参数] [进程 PID]
+killall [参数] [服务名称]
+
+6.pidof
+
+查看指定PID    pidof [参数] [服务名称]
+
+7.inconfig
+
+查看网卡配置与网络状态
+ifconfig [网络设备] [参数]
+
+8.uname -a
+
+查看当前系统版本信息
+
+9.uptime
+
+查看系统负载信息
+
+10.free -h
+
+查看内存使用信息
+
+11.who last
+
+who 查看用户登录信息
+last 查看所有系统的登录记录
+
+12.history
+
+查看历史执行过的命令
+清空当前用户的执行信息可以  history -c
+
+13.sosreport
+
+收集系统配置及架构信息并输出诊断文档
+
