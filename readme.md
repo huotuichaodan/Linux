@@ -9,3 +9,6 @@
 
 ## 1.03
 [管道符，重定向与环境变量](https://github.com/huotuichaodan/Linux/blob/master/%E7%AE%A1%E9%81%93%E7%AC%A6%EF%BC%8C%E9%87%8D%E5%AE%9A%E5%90%91%E4%B8%8E%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)
+
+## 1.04
+[Vim编辑器与shell命令脚本](https://github.com/huotuichaodan/Linux/blob/master/Vim%20%E7%BC%96%E8%BE%91%E5%99%A8%E4%B8%8E%20shell%E5%91%BD%E4%BB%A4%E8%84%9A%E6%9C%AC)
